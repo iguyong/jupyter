@@ -1,3 +1,4 @@
+rise
 bqplot
 ipycanvas>=0.9.1
 ipyleaflet
